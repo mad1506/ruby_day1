@@ -1,3 +1,5 @@
+puts "hahahahehehaha"
+
 require 'sinatra'
 require 'sinatra/reloader'
 require 'httparty'
